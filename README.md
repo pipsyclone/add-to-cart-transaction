@@ -8,6 +8,7 @@
     - php artisan key:generate
     - composer install
     - buat database bernama "testing"
+    - php artisan migrate
     - php artisan db:seed
     - php artisan serve
 </pre>
@@ -20,6 +21,7 @@
     - php artisan key:generate
     - composer install
     - buat database bernama "testing"
+    - php artisan migrate
     - php artisan db:seed
     - php artisan serve
 </pre>
